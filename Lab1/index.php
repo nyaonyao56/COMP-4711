@@ -38,7 +38,6 @@ and open the template in the editor.
         foreach($students as $student) {
             echo $student->toString();
         }
-       
         ?>
     </body>
 </html>
