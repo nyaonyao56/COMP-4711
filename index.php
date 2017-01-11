@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo 'hayden ng is stupid';
+       
         ?>
     </body>
 </html>
