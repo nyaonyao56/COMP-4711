@@ -14,7 +14,7 @@
         include('Student.php');
         
         $students = array();
-        
+      
         $first = new Student();
         $first->surname = "Job";
         $first->first_name = "Do";
